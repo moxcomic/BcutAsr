@@ -19,7 +19,7 @@ func TestParse(t *testing.T) {
 	m := make(map[string]any)
 	res.Unmarshal(&m)
 
-	fmt.Printf("%v\n", gson.New(m).JSON("", "  "))
+	fmt.Printf("%v\n", gson.NewFrom(gson.New(m).Get("data.result").Str()).JSON("", "  "))
 }
 
 func TestResult(t *testing.T) {

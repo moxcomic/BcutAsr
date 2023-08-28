@@ -1,0 +1,2051 @@
+{
+  "utterances": [
+    {
+      "confidence": 0,
+      "end_time": 18940,
+      "start_time": 16780,
+      "transcript": "解开我",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 17020,
+          "label": "解",
+          "start_time": 16780
+        },
+        {
+          "confidence": 0,
+          "end_time": 17980,
+          "label": "开",
+          "start_time": 17680
+        },
+        {
+          "confidence": 0,
+          "end_time": 18940,
+          "label": "我",
+          "start_time": 18580
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 22300,
+      "start_time": 20320,
+      "transcript": "最神秘的等待",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 20500,
+          "label": "最",
+          "start_time": 20320
+        },
+        {
+          "confidence": 0,
+          "end_time": 20740,
+          "label": "神",
+          "start_time": 20500
+        },
+        {
+          "confidence": 0,
+          "end_time": 21160,
+          "label": "秘",
+          "start_time": 20860
+        },
+        {
+          "confidence": 0,
+          "end_time": 21640,
+          "label": "的",
+          "start_time": 21340
+        },
+        {
+          "confidence": 0,
+          "end_time": 22060,
+          "label": "等",
+          "start_time": 21760
+        },
+        {
+          "confidence": 0,
+          "end_time": 22300,
+          "label": "待",
+          "start_time": 22060
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 26260,
+      "start_time": 23920,
+      "transcript": "星星坠落",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 24400,
+          "label": "星星",
+          "start_time": 24160
+        },
+        {
+          "confidence": 0,
+          "end_time": 25300,
+          "label": "坠",
+          "start_time": 25000
+        },
+        {
+          "confidence": 0,
+          "end_time": 26260,
+          "label": "落",
+          "start_time": 26020
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 28180,
+      "start_time": 26500,
+      "transcript": "风在吹动",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 26740,
+          "label": "风",
+          "start_time": 26500
+        },
+        {
+          "confidence": 0,
+          "end_time": 27220,
+          "label": "在",
+          "start_time": 26920
+        },
+        {
+          "confidence": 0,
+          "end_time": 27820,
+          "label": "吹",
+          "start_time": 27520
+        },
+        {
+          "confidence": 0,
+          "end_time": 28180,
+          "label": "动",
+          "start_time": 27820
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 35460,
+      "start_time": 31320,
+      "transcript": "终于再将你拥入怀",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 31560,
+          "label": "终",
+          "start_time": 31320
+        },
+        {
+          "confidence": 0,
+          "end_time": 31860,
+          "label": "于",
+          "start_time": 31560
+        },
+        {
+          "confidence": 0,
+          "end_time": 32759,
+          "label": "再",
+          "start_time": 32460
+        },
+        {
+          "confidence": 0,
+          "end_time": 33660,
+          "label": "将",
+          "start_time": 33360
+        },
+        {
+          "confidence": 0,
+          "end_time": 34140,
+          "label": "你",
+          "start_time": 33840
+        },
+        {
+          "confidence": 0,
+          "end_time": 34560,
+          "label": "拥",
+          "start_time": 34260
+        },
+        {
+          "confidence": 0,
+          "end_time": 35040,
+          "label": "入",
+          "start_time": 34740
+        },
+        {
+          "confidence": 0,
+          "end_time": 35460,
+          "label": "怀",
+          "start_time": 35220
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 37440,
+      "start_time": 37140,
+      "transcript": "中",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 37440,
+          "label": "中",
+          "start_time": 37140
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 41000,
+      "start_time": 38960,
+      "transcript": "两颗心",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 39200,
+          "label": "两",
+          "start_time": 38960
+        },
+        {
+          "confidence": 0,
+          "end_time": 40100,
+          "label": "颗",
+          "start_time": 39800
+        },
+        {
+          "confidence": 0,
+          "end_time": 41000,
+          "label": "心",
+          "start_time": 40760
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 42980,
+      "start_time": 42200,
+      "transcript": "颤抖",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 42440,
+          "label": "颤",
+          "start_time": 42200
+        },
+        {
+          "confidence": 0,
+          "end_time": 42980,
+          "label": "抖",
+          "start_time": 42620
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 48600,
+      "start_time": 46320,
+      "transcript": "相信我",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 46560,
+          "label": "相",
+          "start_time": 46320
+        },
+        {
+          "confidence": 0,
+          "end_time": 47520,
+          "label": "信",
+          "start_time": 47220
+        },
+        {
+          "confidence": 0,
+          "end_time": 48600,
+          "label": "我",
+          "start_time": 48120
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 52020,
+      "start_time": 50040,
+      "transcript": "不变的真心",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 50280,
+          "label": "不",
+          "start_time": 50040
+        },
+        {
+          "confidence": 0,
+          "end_time": 50700,
+          "label": "变",
+          "start_time": 50400
+        },
+        {
+          "confidence": 0,
+          "end_time": 51240,
+          "label": "的",
+          "start_time": 50940
+        },
+        {
+          "confidence": 0,
+          "end_time": 51660,
+          "label": "真",
+          "start_time": 51360
+        },
+        {
+          "confidence": 0,
+          "end_time": 52020,
+          "label": "心",
+          "start_time": 51780
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 57740,
+      "start_time": 53460,
+      "transcript": "千年等待有我承诺",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 54120,
+          "label": "千年",
+          "start_time": 53700
+        },
+        {
+          "confidence": 0,
+          "end_time": 54620,
+          "label": "等",
+          "start_time": 54320
+        },
+        {
+          "confidence": 0,
+          "end_time": 55820,
+          "label": "待",
+          "start_time": 55520
+        },
+        {
+          "confidence": 0,
+          "end_time": 56240,
+          "label": "有",
+          "start_time": 55940
+        },
+        {
+          "confidence": 0,
+          "end_time": 56780,
+          "label": "我",
+          "start_time": 56420
+        },
+        {
+          "confidence": 0,
+          "end_time": 57380,
+          "label": "承",
+          "start_time": 57080
+        },
+        {
+          "confidence": 0,
+          "end_time": 57740,
+          "label": "诺",
+          "start_time": 57500
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 66780,
+      "start_time": 60920,
+      "transcript": "无论今经过多少的寒感动",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 61160,
+          "label": "无",
+          "start_time": 60920
+        },
+        {
+          "confidence": 0,
+          "end_time": 61460,
+          "label": "论",
+          "start_time": 61160
+        },
+        {
+          "confidence": 0,
+          "end_time": 62360,
+          "label": "今",
+          "start_time": 61940
+        },
+        {
+          "confidence": 0,
+          "end_time": 62900,
+          "label": "经",
+          "start_time": 62420
+        },
+        {
+          "confidence": 0,
+          "end_time": 63140,
+          "label": "过",
+          "start_time": 62900
+        },
+        {
+          "confidence": 0,
+          "end_time": 63620,
+          "label": "多",
+          "start_time": 63320
+        },
+        {
+          "confidence": 0,
+          "end_time": 64040,
+          "label": "少",
+          "start_time": 63740
+        },
+        {
+          "confidence": 0,
+          "end_time": 64580,
+          "label": "的",
+          "start_time": 64280
+        },
+        {
+          "confidence": 0,
+          "end_time": 65120,
+          "label": "寒",
+          "start_time": 64700
+        },
+        {
+          "confidence": 0,
+          "end_time": 66300,
+          "label": "感",
+          "start_time": 66060
+        },
+        {
+          "confidence": 0,
+          "end_time": 66780,
+          "label": "动",
+          "start_time": 66540
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 70500,
+      "start_time": 68520,
+      "transcript": "我绝不",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 68760,
+          "label": "我",
+          "start_time": 68520
+        },
+        {
+          "confidence": 0,
+          "end_time": 69600,
+          "label": "绝",
+          "start_time": 69300
+        },
+        {
+          "confidence": 0,
+          "end_time": 70500,
+          "label": "不",
+          "start_time": 70260
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 72480,
+      "start_time": 71760,
+      "transcript": "放手",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 72000,
+          "label": "放",
+          "start_time": 71760
+        },
+        {
+          "confidence": 0,
+          "end_time": 72480,
+          "label": "手",
+          "start_time": 72120
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 80180,
+      "start_time": 74900,
+      "transcript": "已经熬夜守护的与家空努力",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 75140,
+          "label": "已",
+          "start_time": 74900
+        },
+        {
+          "confidence": 0,
+          "end_time": 75680,
+          "label": "经",
+          "start_time": 75380
+        },
+        {
+          "confidence": 0,
+          "end_time": 76100,
+          "label": "熬",
+          "start_time": 75800
+        },
+        {
+          "confidence": 0,
+          "end_time": 76580,
+          "label": "夜",
+          "start_time": 76280
+        },
+        {
+          "confidence": 0,
+          "end_time": 76880,
+          "label": "守",
+          "start_time": 76580
+        },
+        {
+          "confidence": 0,
+          "end_time": 77180,
+          "label": "护",
+          "start_time": 76880
+        },
+        {
+          "confidence": 0,
+          "end_time": 77480,
+          "label": "的",
+          "start_time": 77240
+        },
+        {
+          "confidence": 0,
+          "end_time": 77720,
+          "label": "与",
+          "start_time": 77480
+        },
+        {
+          "confidence": 0,
+          "end_time": 77960,
+          "label": "家",
+          "start_time": 77720
+        },
+        {
+          "confidence": 0,
+          "end_time": 78980,
+          "label": "空",
+          "start_time": 78560
+        },
+        {
+          "confidence": 0,
+          "end_time": 79820,
+          "label": "努",
+          "start_time": 79520
+        },
+        {
+          "confidence": 0,
+          "end_time": 80180,
+          "label": "力",
+          "start_time": 79940
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 81800,
+      "start_time": 80300,
+      "transcript": "got my own",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 80540,
+          "label": "got",
+          "start_time": 80300
+        },
+        {
+          "confidence": 0,
+          "end_time": 81140,
+          "label": "my",
+          "start_time": 80840
+        },
+        {
+          "confidence": 0,
+          "end_time": 81800,
+          "label": "own",
+          "start_time": 81200
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 101120,
+      "start_time": 97580,
+      "transcript": "如灿烂汗的脉搏",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 97820,
+          "label": "如",
+          "start_time": 97580
+        },
+        {
+          "confidence": 0,
+          "end_time": 98240,
+          "label": "灿",
+          "start_time": 97940
+        },
+        {
+          "confidence": 0,
+          "end_time": 98720,
+          "label": "烂",
+          "start_time": 98420
+        },
+        {
+          "confidence": 0,
+          "end_time": 99200,
+          "label": "汗",
+          "start_time": 98720
+        },
+        {
+          "confidence": 0,
+          "end_time": 99680,
+          "label": "的",
+          "start_time": 99380
+        },
+        {
+          "confidence": 0,
+          "end_time": 100100,
+          "label": "脉",
+          "start_time": 99800
+        },
+        {
+          "confidence": 0,
+          "end_time": 101120,
+          "label": "搏",
+          "start_time": 100760
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 122240,
+      "start_time": 120140,
+      "transcript": "每一夜",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 120380,
+          "label": "每",
+          "start_time": 120140
+        },
+        {
+          "confidence": 0,
+          "end_time": 121280,
+          "label": "一",
+          "start_time": 120980
+        },
+        {
+          "confidence": 0,
+          "end_time": 122240,
+          "label": "夜",
+          "start_time": 122000
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 125840,
+      "start_time": 123920,
+      "transcript": "被心痛穿越",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 124160,
+          "label": "被",
+          "start_time": 123920
+        },
+        {
+          "confidence": 0,
+          "end_time": 124580,
+          "label": "心",
+          "start_time": 124280
+        },
+        {
+          "confidence": 0,
+          "end_time": 125000,
+          "label": "痛",
+          "start_time": 124700
+        },
+        {
+          "confidence": 0,
+          "end_time": 125480,
+          "label": "穿",
+          "start_time": 125180
+        },
+        {
+          "confidence": 0,
+          "end_time": 125840,
+          "label": "越",
+          "start_time": 125600
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 131500,
+      "start_time": 127580,
+      "transcript": "思思念永没有终点",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 127940,
+          "label": "思",
+          "start_time": 127580
+        },
+        {
+          "confidence": 0,
+          "end_time": 128500,
+          "label": "思",
+          "start_time": 128320
+        },
+        {
+          "confidence": 0,
+          "end_time": 128740,
+          "label": "念",
+          "start_time": 128500
+        },
+        {
+          "confidence": 0,
+          "end_time": 129639,
+          "label": "永",
+          "start_time": 129340
+        },
+        {
+          "confidence": 0,
+          "end_time": 130180,
+          "label": "没",
+          "start_time": 129880
+        },
+        {
+          "confidence": 0,
+          "end_time": 130419,
+          "label": "有",
+          "start_time": 130180
+        },
+        {
+          "confidence": 0,
+          "end_time": 131020,
+          "label": "终",
+          "start_time": 130720
+        },
+        {
+          "confidence": 0,
+          "end_time": 131500,
+          "label": "点",
+          "start_time": 131140
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 138900,
+      "start_time": 134940,
+      "transcript": "早习惯了孤独乡",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 135180,
+          "label": "早",
+          "start_time": 134940
+        },
+        {
+          "confidence": 0,
+          "end_time": 136140,
+          "label": "习",
+          "start_time": 135840
+        },
+        {
+          "confidence": 0,
+          "end_time": 136980,
+          "label": "惯",
+          "start_time": 136680
+        },
+        {
+          "confidence": 0,
+          "end_time": 137520,
+          "label": "了",
+          "start_time": 137220
+        },
+        {
+          "confidence": 0,
+          "end_time": 137820,
+          "label": "孤",
+          "start_time": 137520
+        },
+        {
+          "confidence": 0,
+          "end_time": 138360,
+          "label": "独",
+          "start_time": 138060
+        },
+        {
+          "confidence": 0,
+          "end_time": 138900,
+          "label": "乡",
+          "start_time": 138540
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 144340,
+      "start_time": 140500,
+      "transcript": "虽然我微笑",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 140740,
+          "label": "虽",
+          "start_time": 140500
+        },
+        {
+          "confidence": 0,
+          "end_time": 141640,
+          "label": "然",
+          "start_time": 141340
+        },
+        {
+          "confidence": 0,
+          "end_time": 142600,
+          "label": "我",
+          "start_time": 142300
+        },
+        {
+          "confidence": 0,
+          "end_time": 143500,
+          "label": "微",
+          "start_time": 143200
+        },
+        {
+          "confidence": 0,
+          "end_time": 144340,
+          "label": "笑",
+          "start_time": 143980
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 146360,
+      "start_time": 145580,
+      "transcript": "面对",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 145820,
+          "label": "面",
+          "start_time": 145580
+        },
+        {
+          "confidence": 0,
+          "end_time": 146360,
+          "label": "对",
+          "start_time": 146120
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 151940,
+      "start_time": 149660,
+      "transcript": "相信我",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 149900,
+          "label": "相",
+          "start_time": 149660
+        },
+        {
+          "confidence": 0,
+          "end_time": 150860,
+          "label": "信",
+          "start_time": 150560
+        },
+        {
+          "confidence": 0,
+          "end_time": 151940,
+          "label": "我",
+          "start_time": 151580
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 155540,
+      "start_time": 153440,
+      "transcript": "你选择等待",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 153680,
+          "label": "你",
+          "start_time": 153440
+        },
+        {
+          "confidence": 0,
+          "end_time": 154100,
+          "label": "选",
+          "start_time": 153800
+        },
+        {
+          "confidence": 0,
+          "end_time": 154580,
+          "label": "择",
+          "start_time": 154280
+        },
+        {
+          "confidence": 0,
+          "end_time": 155060,
+          "label": "等",
+          "start_time": 154760
+        },
+        {
+          "confidence": 0,
+          "end_time": 155540,
+          "label": "待",
+          "start_time": 155180
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 161080,
+      "start_time": 156880,
+      "transcript": "再多苦痛也不闪躲",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 157120,
+          "label": "再",
+          "start_time": 156880
+        },
+        {
+          "confidence": 0,
+          "end_time": 157360,
+          "label": "多",
+          "start_time": 157120
+        },
+        {
+          "confidence": 0,
+          "end_time": 158260,
+          "label": "苦",
+          "start_time": 157960
+        },
+        {
+          "confidence": 0,
+          "end_time": 159220,
+          "label": "痛",
+          "start_time": 158920
+        },
+        {
+          "confidence": 0,
+          "end_time": 159760,
+          "label": "也",
+          "start_time": 159460
+        },
+        {
+          "confidence": 0,
+          "end_time": 160060,
+          "label": "不",
+          "start_time": 159760
+        },
+        {
+          "confidence": 0,
+          "end_time": 160480,
+          "label": "闪",
+          "start_time": 160180
+        },
+        {
+          "confidence": 0,
+          "end_time": 161080,
+          "label": "躲",
+          "start_time": 160720
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 168460,
+      "start_time": 164260,
+      "transcript": "只有你的温柔能解",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 164500,
+          "label": "只",
+          "start_time": 164260
+        },
+        {
+          "confidence": 0,
+          "end_time": 164740,
+          "label": "有",
+          "start_time": 164500
+        },
+        {
+          "confidence": 0,
+          "end_time": 165700,
+          "label": "你",
+          "start_time": 165400
+        },
+        {
+          "confidence": 0,
+          "end_time": 166540,
+          "label": "的",
+          "start_time": 166240
+        },
+        {
+          "confidence": 0,
+          "end_time": 167020,
+          "label": "温",
+          "start_time": 166720
+        },
+        {
+          "confidence": 0,
+          "end_time": 167260,
+          "label": "柔",
+          "start_time": 167020
+        },
+        {
+          "confidence": 0,
+          "end_time": 167920,
+          "label": "能",
+          "start_time": 167620
+        },
+        {
+          "confidence": 0,
+          "end_time": 168460,
+          "label": "解",
+          "start_time": 168100
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 170180,
+      "start_time": 170000,
+      "transcript": "救",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 170180,
+          "label": "救",
+          "start_time": 170000
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 174020,
+      "start_time": 171860,
+      "transcript": "无边的",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 172100,
+          "label": "无",
+          "start_time": 171860
+        },
+        {
+          "confidence": 0,
+          "end_time": 173000,
+          "label": "边",
+          "start_time": 172700
+        },
+        {
+          "confidence": 0,
+          "end_time": 174020,
+          "label": "的",
+          "start_time": 173720
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 175820,
+      "start_time": 175160,
+      "transcript": "冷漠",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 175400,
+          "label": "冷",
+          "start_time": 175160
+        },
+        {
+          "confidence": 0,
+          "end_time": 175820,
+          "label": "漠",
+          "start_time": 175460
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 182280,
+      "start_time": 178320,
+      "transcript": "以前那一艘被加工",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 178560,
+          "label": "以",
+          "start_time": 178320
+        },
+        {
+          "confidence": 0,
+          "end_time": 179040,
+          "label": "前",
+          "start_time": 178740
+        },
+        {
+          "confidence": 0,
+          "end_time": 179460,
+          "label": "那",
+          "start_time": 179160
+        },
+        {
+          "confidence": 0,
+          "end_time": 179940,
+          "label": "一",
+          "start_time": 179640
+        },
+        {
+          "confidence": 0,
+          "end_time": 180240,
+          "label": "艘",
+          "start_time": 179940
+        },
+        {
+          "confidence": 0,
+          "end_time": 180900,
+          "label": "被",
+          "start_time": 180600
+        },
+        {
+          "confidence": 0,
+          "end_time": 181320,
+          "label": "加",
+          "start_time": 181020
+        },
+        {
+          "confidence": 0,
+          "end_time": 182280,
+          "label": "工",
+          "start_time": 181920
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 186620,
+      "start_time": 182960,
+      "transcript": "music on my own booties",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 183680,
+          "label": "music",
+          "start_time": 182960
+        },
+        {
+          "confidence": 0,
+          "end_time": 184040,
+          "label": "on",
+          "start_time": 183680
+        },
+        {
+          "confidence": 0,
+          "end_time": 184580,
+          "label": "my",
+          "start_time": 184280
+        },
+        {
+          "confidence": 0,
+          "end_time": 185240,
+          "label": "own",
+          "start_time": 184580
+        },
+        {
+          "confidence": 0,
+          "end_time": 186620,
+          "label": "booties",
+          "start_time": 185660
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 188300,
+      "start_time": 186740,
+      "transcript": "how i handle",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 186920,
+          "label": "how",
+          "start_time": 186740
+        },
+        {
+          "confidence": 0,
+          "end_time": 187340,
+          "label": "i",
+          "start_time": 187040
+        },
+        {
+          "confidence": 0,
+          "end_time": 188300,
+          "label": "handle",
+          "start_time": 187340
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 204480,
+      "start_time": 197760,
+      "transcript": "害怕 su 你有错路才能很难摆动",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 198000,
+          "label": "害",
+          "start_time": 197760
+        },
+        {
+          "confidence": 0,
+          "end_time": 198420,
+          "label": "怕",
+          "start_time": 198120
+        },
+        {
+          "confidence": 0,
+          "end_time": 198720,
+          "label": "su",
+          "start_time": 198420
+        },
+        {
+          "confidence": 0,
+          "end_time": 199320,
+          "label": "你",
+          "start_time": 199020
+        },
+        {
+          "confidence": 0,
+          "end_time": 199800,
+          "label": "有",
+          "start_time": 199380
+        },
+        {
+          "confidence": 0,
+          "end_time": 200700,
+          "label": "错",
+          "start_time": 200400
+        },
+        {
+          "confidence": 0,
+          "end_time": 201180,
+          "label": "路",
+          "start_time": 200880
+        },
+        {
+          "confidence": 0,
+          "end_time": 201660,
+          "label": "才",
+          "start_time": 201360
+        },
+        {
+          "confidence": 0,
+          "end_time": 202140,
+          "label": "能",
+          "start_time": 201840
+        },
+        {
+          "confidence": 0,
+          "end_time": 202380,
+          "label": "很",
+          "start_time": 202140
+        },
+        {
+          "confidence": 0,
+          "end_time": 203040,
+          "label": "难",
+          "start_time": 202740
+        },
+        {
+          "confidence": 0,
+          "end_time": 203520,
+          "label": "摆",
+          "start_time": 203220
+        },
+        {
+          "confidence": 0,
+          "end_time": 204480,
+          "label": "动",
+          "start_time": 204120
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 207020,
+      "start_time": 205100,
+      "transcript": "莫特色内容",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 205340,
+          "label": "莫",
+          "start_time": 205100
+        },
+        {
+          "confidence": 0,
+          "end_time": 205760,
+          "label": "特",
+          "start_time": 205460
+        },
+        {
+          "confidence": 0,
+          "end_time": 206060,
+          "label": "色",
+          "start_time": 205760
+        },
+        {
+          "confidence": 0,
+          "end_time": 206720,
+          "label": "内",
+          "start_time": 206420
+        },
+        {
+          "confidence": 0,
+          "end_time": 207020,
+          "label": "容",
+          "start_time": 206720
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 209760,
+      "start_time": 207900,
+      "transcript": "让爱成为你",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 208140,
+          "label": "让",
+          "start_time": 207900
+        },
+        {
+          "confidence": 0,
+          "end_time": 208560,
+          "label": "爱",
+          "start_time": 208260
+        },
+        {
+          "confidence": 0,
+          "end_time": 208980,
+          "label": "成",
+          "start_time": 208680
+        },
+        {
+          "confidence": 0,
+          "end_time": 209520,
+          "label": "为",
+          "start_time": 209220
+        },
+        {
+          "confidence": 0,
+          "end_time": 209760,
+          "label": "你",
+          "start_time": 209520
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 214620,
+      "start_time": 210180,
+      "transcript": "我心中那永远盛开的花",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 210420,
+          "label": "我",
+          "start_time": 210180
+        },
+        {
+          "confidence": 0,
+          "end_time": 210840,
+          "label": "心",
+          "start_time": 210540
+        },
+        {
+          "confidence": 0,
+          "end_time": 211800,
+          "label": "中",
+          "start_time": 211500
+        },
+        {
+          "confidence": 0,
+          "end_time": 212760,
+          "label": "那",
+          "start_time": 212460
+        },
+        {
+          "confidence": 0,
+          "end_time": 213060,
+          "label": "永",
+          "start_time": 212760
+        },
+        {
+          "confidence": 0,
+          "end_time": 213360,
+          "label": "远",
+          "start_time": 213060
+        },
+        {
+          "confidence": 0,
+          "end_time": 213660,
+          "label": "盛",
+          "start_time": 213360
+        },
+        {
+          "confidence": 0,
+          "end_time": 214020,
+          "label": "开",
+          "start_time": 213720
+        },
+        {
+          "confidence": 0,
+          "end_time": 214320,
+          "label": "的",
+          "start_time": 214020
+        },
+        {
+          "confidence": 0,
+          "end_time": 214620,
+          "label": "花",
+          "start_time": 214320
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 216800,
+      "start_time": 215240,
+      "transcript": "穿越时空",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 215480,
+          "label": "穿",
+          "start_time": 215240
+        },
+        {
+          "confidence": 0,
+          "end_time": 215960,
+          "label": "越",
+          "start_time": 215660
+        },
+        {
+          "confidence": 0,
+          "end_time": 216380,
+          "label": "时",
+          "start_time": 216080
+        },
+        {
+          "confidence": 0,
+          "end_time": 216800,
+          "label": "空",
+          "start_time": 216560
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 219140,
+      "start_time": 216920,
+      "transcript": "绝不低头",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 217100,
+          "label": "绝",
+          "start_time": 216920
+        },
+        {
+          "confidence": 0,
+          "end_time": 217820,
+          "label": "不",
+          "start_time": 217520
+        },
+        {
+          "confidence": 0,
+          "end_time": 218240,
+          "label": "低",
+          "start_time": 217940
+        },
+        {
+          "confidence": 0,
+          "end_time": 219140,
+          "label": "头",
+          "start_time": 218900
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 221840,
+      "start_time": 219860,
+      "transcript": "永不放弃的梦",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 220100,
+          "label": "永",
+          "start_time": 219860
+        },
+        {
+          "confidence": 0,
+          "end_time": 220460,
+          "label": "不",
+          "start_time": 220160
+        },
+        {
+          "confidence": 0,
+          "end_time": 220760,
+          "label": "放",
+          "start_time": 220460
+        },
+        {
+          "confidence": 0,
+          "end_time": 221060,
+          "label": "弃",
+          "start_time": 220760
+        },
+        {
+          "confidence": 0,
+          "end_time": 221540,
+          "label": "的",
+          "start_time": 221240
+        },
+        {
+          "confidence": 0,
+          "end_time": 221840,
+          "label": "梦",
+          "start_time": 221540
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 233100,
+      "start_time": 230040,
+      "transcript": "所有才能看到吗",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 230280,
+          "label": "所",
+          "start_time": 230040
+        },
+        {
+          "confidence": 0,
+          "end_time": 230700,
+          "label": "有",
+          "start_time": 230280
+        },
+        {
+          "confidence": 0,
+          "end_time": 231180,
+          "label": "才",
+          "start_time": 230880
+        },
+        {
+          "confidence": 0,
+          "end_time": 231660,
+          "label": "能",
+          "start_time": 231360
+        },
+        {
+          "confidence": 0,
+          "end_time": 231900,
+          "label": "看",
+          "start_time": 231660
+        },
+        {
+          "confidence": 0,
+          "end_time": 232620,
+          "label": "到",
+          "start_time": 232320
+        },
+        {
+          "confidence": 0,
+          "end_time": 233100,
+          "label": "吗",
+          "start_time": 232740
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 236460,
+      "start_time": 234600,
+      "transcript": "我太酸奶油",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 234840,
+          "label": "我",
+          "start_time": 234600
+        },
+        {
+          "confidence": 0,
+          "end_time": 235320,
+          "label": "太",
+          "start_time": 235020
+        },
+        {
+          "confidence": 0,
+          "end_time": 235620,
+          "label": "酸",
+          "start_time": 235320
+        },
+        {
+          "confidence": 0,
+          "end_time": 236280,
+          "label": "奶",
+          "start_time": 235980
+        },
+        {
+          "confidence": 0,
+          "end_time": 236460,
+          "label": "油",
+          "start_time": 236280
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 239340,
+      "start_time": 237420,
+      "transcript": "让爱成为你",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 237660,
+          "label": "让",
+          "start_time": 237420
+        },
+        {
+          "confidence": 0,
+          "end_time": 238080,
+          "label": "爱",
+          "start_time": 237780
+        },
+        {
+          "confidence": 0,
+          "end_time": 238560,
+          "label": "成",
+          "start_time": 238260
+        },
+        {
+          "confidence": 0,
+          "end_time": 239040,
+          "label": "为",
+          "start_time": 238740
+        },
+        {
+          "confidence": 0,
+          "end_time": 239340,
+          "label": "你",
+          "start_time": 239040
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 244120,
+      "start_time": 239700,
+      "transcript": "我心中那永远盛开的花",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 239940,
+          "label": "我",
+          "start_time": 239700
+        },
+        {
+          "confidence": 0,
+          "end_time": 240420,
+          "label": "心",
+          "start_time": 240120
+        },
+        {
+          "confidence": 0,
+          "end_time": 241440,
+          "label": "中",
+          "start_time": 241020
+        },
+        {
+          "confidence": 0,
+          "end_time": 242320,
+          "label": "那",
+          "start_time": 242020
+        },
+        {
+          "confidence": 0,
+          "end_time": 242620,
+          "label": "永",
+          "start_time": 242320
+        },
+        {
+          "confidence": 0,
+          "end_time": 242920,
+          "label": "远",
+          "start_time": 242620
+        },
+        {
+          "confidence": 0,
+          "end_time": 243220,
+          "label": "盛",
+          "start_time": 242920
+        },
+        {
+          "confidence": 0,
+          "end_time": 243580,
+          "label": "开",
+          "start_time": 243280
+        },
+        {
+          "confidence": 0,
+          "end_time": 243880,
+          "label": "的",
+          "start_time": 243580
+        },
+        {
+          "confidence": 0,
+          "end_time": 244120,
+          "label": "花",
+          "start_time": 243880
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 246400,
+      "start_time": 244780,
+      "transcript": "不里锁着",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 245020,
+          "label": "不",
+          "start_time": 244780
+        },
+        {
+          "confidence": 0,
+          "end_time": 245620,
+          "label": "里",
+          "start_time": 245200
+        },
+        {
+          "confidence": 0,
+          "end_time": 245980,
+          "label": "锁",
+          "start_time": 245680
+        },
+        {
+          "confidence": 0,
+          "end_time": 246400,
+          "label": "着",
+          "start_time": 246160
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 249960,
+      "start_time": 246520,
+      "transcript": "看到亚索一起",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 246700,
+          "label": "看",
+          "start_time": 246520
+        },
+        {
+          "confidence": 0,
+          "end_time": 247360,
+          "label": "到",
+          "start_time": 247060
+        },
+        {
+          "confidence": 0,
+          "end_time": 247780,
+          "label": "亚",
+          "start_time": 247480
+        },
+        {
+          "confidence": 0,
+          "end_time": 248860,
+          "label": "索",
+          "start_time": 248440
+        },
+        {
+          "confidence": 0,
+          "end_time": 249600,
+          "label": "一",
+          "start_time": 249300
+        },
+        {
+          "confidence": 0,
+          "end_time": 249960,
+          "label": "起",
+          "start_time": 249720
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 251400,
+      "start_time": 250080,
+      "transcript": "the mario",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 250320,
+          "label": "the",
+          "start_time": 250080
+        },
+        {
+          "confidence": 0,
+          "end_time": 251400,
+          "label": "mario",
+          "start_time": 250320
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 255200,
+      "start_time": 252200,
+      "transcript": "唯有真爱追随你",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 252440,
+          "label": "唯",
+          "start_time": 252200
+        },
+        {
+          "confidence": 0,
+          "end_time": 252860,
+          "label": "有",
+          "start_time": 252560
+        },
+        {
+          "confidence": 0,
+          "end_time": 253340,
+          "label": "真",
+          "start_time": 253040
+        },
+        {
+          "confidence": 0,
+          "end_time": 253760,
+          "label": "爱",
+          "start_time": 253460
+        },
+        {
+          "confidence": 0,
+          "end_time": 254060,
+          "label": "追",
+          "start_time": 253760
+        },
+        {
+          "confidence": 0,
+          "end_time": 254720,
+          "label": "随",
+          "start_time": 254420
+        },
+        {
+          "confidence": 0,
+          "end_time": 255200,
+          "label": "你",
+          "start_time": 254900
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 258740,
+      "start_time": 255860,
+      "transcript": "我穿越无尽时空",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 256100,
+          "label": "我",
+          "start_time": 255860
+        },
+        {
+          "confidence": 0,
+          "end_time": 256760,
+          "label": "穿",
+          "start_time": 256459
+        },
+        {
+          "confidence": 0,
+          "end_time": 257060,
+          "label": "越",
+          "start_time": 256760
+        },
+        {
+          "confidence": 0,
+          "end_time": 257480,
+          "label": "无",
+          "start_time": 257180
+        },
+        {
+          "confidence": 0,
+          "end_time": 257720,
+          "label": "尽",
+          "start_time": 257480
+        },
+        {
+          "confidence": 0,
+          "end_time": 258380,
+          "label": "时",
+          "start_time": 258079
+        },
+        {
+          "confidence": 0,
+          "end_time": 258740,
+          "label": "空",
+          "start_time": 258380
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 277020,
+      "start_time": 269720,
+      "transcript": "爱是心中唯一不变美丽你的生",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 269960,
+          "label": "爱",
+          "start_time": 269720
+        },
+        {
+          "confidence": 0,
+          "end_time": 270440,
+          "label": "是",
+          "start_time": 270140
+        },
+        {
+          "confidence": 0,
+          "end_time": 270860,
+          "label": "心",
+          "start_time": 270560
+        },
+        {
+          "confidence": 0,
+          "end_time": 271340,
+          "label": "中",
+          "start_time": 271040
+        },
+        {
+          "confidence": 0,
+          "end_time": 271820,
+          "label": "唯",
+          "start_time": 271520
+        },
+        {
+          "confidence": 0,
+          "end_time": 272780,
+          "label": "一",
+          "start_time": 272480
+        },
+        {
+          "confidence": 0,
+          "end_time": 273560,
+          "label": "不",
+          "start_time": 273260
+        },
+        {
+          "confidence": 0,
+          "end_time": 273860,
+          "label": "变",
+          "start_time": 273560
+        },
+        {
+          "confidence": 0,
+          "end_time": 274700,
+          "label": "美",
+          "start_time": 274400
+        },
+        {
+          "confidence": 0,
+          "end_time": 275540,
+          "label": "丽",
+          "start_time": 275120
+        },
+        {
+          "confidence": 0,
+          "end_time": 275940,
+          "label": "你",
+          "start_time": 275640
+        },
+        {
+          "confidence": 0,
+          "end_time": 276720,
+          "label": "的",
+          "start_time": 276420
+        },
+        {
+          "confidence": 0,
+          "end_time": 277020,
+          "label": "生",
+          "start_time": 276780
+        }
+      ]
+    },
+    {
+      "confidence": 0,
+      "end_time": 278580,
+      "start_time": 278280,
+      "transcript": "活",
+      "words": [
+        {
+          "confidence": 0,
+          "end_time": 278580,
+          "label": "活",
+          "start_time": 278280
+        }
+      ]
+    }
+  ],
+  "version": "v1.5.0"
+}
